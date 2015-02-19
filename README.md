@@ -1,25 +1,4 @@
-## 资源
-
-将资源打包成aar包，aar包已经发布到中央库，在maven中引入:
-
-```
-<dependency>
-    <groupId>in.srain.mix</groupId>
-    <artifactId>umeng-share</artifactId>
-    <version>{latest_version}</version>
-    <type>aar</type>
-</dependency>
-```
-
-在gradle中:
-
-```
-compile 'in.srain.mix:umeng-share:{latest_version}'
-```
-
-## 依赖库
-
-各个依赖的jar包，通过mavn方式引入:
+## UMENG 的各个依赖库
 
 ### For maven
 
@@ -28,7 +7,7 @@ maven库地址:
 ```
 <repository>
     <id>github-srain-umeng-lib</id>
-    <url>https://raw.githubusercontent.com/liaohuqiu/umeng-share/master/mvn-dependencies/repository</url>
+    <url>https://raw.githubusercontent.com/liaohuqiu/umeng-libs/master/repository</url>
     <releases>
         <enabled>true</enabled>
     </releases>
@@ -38,7 +17,7 @@ maven库地址:
 </repository>
 ```
 
-各个依赖组件:
+现有的类库有:
 
 ```
 
@@ -128,17 +107,19 @@ maven库地址:
 
 ```
 
+---
+
 ### For gradle
 
 依赖库地址:
 
 ```
 maven {
-    url 'https://raw.githubusercontent.com/liaohuqiu/umeng-share/master/mvn-dependencies/repository'
+    url 'https://raw.githubusercontent.com/liaohuqiu/umeng-libs/master/repository'
 }
 ```
 
-各个依赖组件:
+现有的类库有:
 
 ```
 compile 'com.umeng:SocialSDK_WeiXin_1:1.0.1@jar'
