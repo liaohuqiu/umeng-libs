@@ -25,84 +25,84 @@ maven库地址:
     <groupId>com.umeng</groupId>
     <artifactId>SocialSDK_WeiXin_1</artifactId>
     <version>1.0.1</version>
-    <type>jar</type>
+    <type>jar</version>
 </dependency>
 
 <dependency>
     <groupId>com.umeng</groupId>
     <artifactId>SocialSDK_facebook_1</artifactId>
     <version>1.0.1</version>
-    <type>jar</type>
+    <type>jar</version>
 </dependency>
 
 <dependency>
     <groupId>com.umeng</groupId>
     <artifactId>umeng_social_sdk</artifactId>
     <version>1.0.1</version>
-    <type>jar</type>
+    <type>jar</version>
 </dependency>
 
 <dependency>
     <groupId>com.umeng</groupId>
     <artifactId>SocialSDK_sms</artifactId>
     <version>1.0.1</version>
-    <type>jar</type>
+    <type>jar</version>
 </dependency>
 
 <dependency>
     <groupId>com.umeng</groupId>
     <artifactId>SocialSDK_QQZone_2</artifactId>
     <version>1.0.1</version>
-    <type>jar</type>
+    <type>jar</version>
 </dependency>
 
 <dependency>
     <groupId>com.umeng</groupId>
     <artifactId>SocialSDK_QQZone_1</artifactId>
     <version>1.0.1</version>
-    <type>jar</type>
+    <type>jar</version>
 </dependency>
 
 <dependency>
     <groupId>com.umeng</groupId>
     <artifactId>SocialSDK_WeiXin_2</artifactId>
     <version>1.0.1</version>
-    <type>jar</type>
+    <type>jar</version>
 </dependency>
 
 <dependency>
     <groupId>com.umeng</groupId>
     <artifactId>SocialSDK_facebook_2</artifactId>
     <version>1.0.1</version>
-    <type>jar</type>
+    <type>jar</version>
 </dependency>
 
 <dependency>
     <groupId>com.umeng</groupId>
     <artifactId>SocialSDK_Sina</artifactId>
     <version>1.0.1</version>
-    <type>jar</type>
+    <type>jar</version>
 </dependency>
 
 <dependency>
     <groupId>com.umeng</groupId>
     <artifactId>SocialSDK_email</artifactId>
     <version>1.0.1</version>
-    <type>jar</type>
+    <type>jar</version>
 </dependency>
 
 <dependency>
     <groupId>com.umeng</groupId>
     <artifactId>SocialSDK_QQZone_3</artifactId>
     <version>1.0.1</version>
-    <type>jar</type>
+    <type>jar</version>
 </dependency>
 
 <dependency>
     <groupId>com.umeng</groupId>
     <artifactId>umeng-analytics</artifactId>
     <version>5.4.1</version>
-    <type>jar</type>
+    <type>jar</version>
 </dependency>
 
 ```

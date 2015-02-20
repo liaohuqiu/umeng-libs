@@ -22,7 +22,7 @@ maven_patten = """
     <groupId>%s</groupId>
     <artifactId>%s</artifactId>
     <version>%s</version>
-    <type>%s</type>
+    <type>%s</version>
 </dependency>
 """
 
