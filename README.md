@@ -23,13 +23,6 @@ maven库地址:
 
 <dependency>
     <groupId>com.umeng</groupId>
-    <artifactId>SocialSDK_QQZone_3</artifactId>
-    <version>1.0.1</version>
-    <type>jar</version>
-</dependency>
-
-<dependency>
-    <groupId>com.umeng</groupId>
     <artifactId>umeng_social_sdk</artifactId>
     <version>4.2.3</version>
     <type>jar</version>
@@ -269,7 +262,6 @@ maven {
 现有的类库有:
 
 ```
-compile 'com.umeng:SocialSDK_QQZone_3:1.0.1@jar'
 compile 'com.umeng:umeng_social_sdk:4.2.3@jar'
 compile 'com.umeng:umeng-analytics:5.4.1@jar'
 compile 'com.umeng:SocialSDK_email:4.2.3@jar'

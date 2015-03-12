@@ -13,12 +13,6 @@ jars = all_file('libs')
 
 lib_list = [
         {
-            'version': '1.0.1',
-            'type': 'jar',
-            'artifact_id': 'SocialSDK_QQZone_3',
-            'file_name': 'SocialSDK_QQZone_3.jar'
-            },
-        {
             'version': share_lib_version,
             'type': 'jar',
             'artifact_id': 'umeng_social_sdk',
