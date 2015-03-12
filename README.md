@@ -25,224 +25,224 @@ maven库地址:
     <groupId>com.umeng</groupId>
     <artifactId>umeng_social_sdk</artifactId>
     <version>4.2.3</version>
-    <type>jar</version>
+    <type>jar</type>
 </dependency>
 
 <dependency>
     <groupId>com.umeng</groupId>
     <artifactId>umeng-analytics</artifactId>
     <version>5.4.1</version>
-    <type>jar</version>
+    <type>jar</type>
 </dependency>
 
 <dependency>
     <groupId>com.umeng</groupId>
     <artifactId>SocialSDK_email</artifactId>
     <version>4.2.3</version>
-    <type>jar</version>
+    <type>jar</type>
 </dependency>
 
 <dependency>
     <groupId>com.umeng</groupId>
     <artifactId>SocialSDK_evernote</artifactId>
     <version>4.2.3</version>
-    <type>jar</version>
+    <type>jar</type>
 </dependency>
 
 <dependency>
     <groupId>com.umeng</groupId>
     <artifactId>SocialSDK_facebook_1</artifactId>
     <version>4.2.3</version>
-    <type>jar</version>
+    <type>jar</type>
 </dependency>
 
 <dependency>
     <groupId>com.umeng</groupId>
     <artifactId>SocialSDK_facebook_2</artifactId>
     <version>4.2.3</version>
-    <type>jar</version>
+    <type>jar</type>
 </dependency>
 
 <dependency>
     <groupId>com.umeng</groupId>
     <artifactId>SocialSDK_flickr</artifactId>
     <version>4.2.3</version>
-    <type>jar</version>
+    <type>jar</type>
 </dependency>
 
 <dependency>
     <groupId>com.umeng</groupId>
     <artifactId>SocialSDK_instagram</artifactId>
     <version>4.2.3</version>
-    <type>jar</version>
+    <type>jar</type>
 </dependency>
 
 <dependency>
     <groupId>com.umeng</groupId>
     <artifactId>SocialSDK_kakao</artifactId>
     <version>4.2.3</version>
-    <type>jar</version>
+    <type>jar</type>
 </dependency>
 
 <dependency>
     <groupId>com.umeng</groupId>
     <artifactId>SocialSDK_laiwang_1</artifactId>
     <version>4.2.3</version>
-    <type>jar</version>
+    <type>jar</type>
 </dependency>
 
 <dependency>
     <groupId>com.umeng</groupId>
     <artifactId>SocialSDK_laiwang_2</artifactId>
     <version>4.2.3</version>
-    <type>jar</version>
+    <type>jar</type>
 </dependency>
 
 <dependency>
     <groupId>com.umeng</groupId>
     <artifactId>SocialSDK_line</artifactId>
     <version>4.2.3</version>
-    <type>jar</version>
+    <type>jar</type>
 </dependency>
 
 <dependency>
     <groupId>com.umeng</groupId>
     <artifactId>SocialSDK_linkedin</artifactId>
     <version>4.2.3</version>
-    <type>jar</version>
+    <type>jar</type>
 </dependency>
 
 <dependency>
     <groupId>com.umeng</groupId>
     <artifactId>SocialSDK_pinterest</artifactId>
     <version>4.2.3</version>
-    <type>jar</version>
+    <type>jar</type>
 </dependency>
 
 <dependency>
     <groupId>com.umeng</groupId>
     <artifactId>SocialSDK_pocket</artifactId>
     <version>4.2.3</version>
-    <type>jar</version>
+    <type>jar</type>
 </dependency>
 
 <dependency>
     <groupId>com.umeng</groupId>
     <artifactId>SocialSDK_QQZone_1</artifactId>
     <version>4.2.3</version>
-    <type>jar</version>
+    <type>jar</type>
 </dependency>
 
 <dependency>
     <groupId>com.umeng</groupId>
     <artifactId>SocialSDK_QQZone_2</artifactId>
     <version>4.2.3</version>
-    <type>jar</version>
+    <type>jar</type>
 </dependency>
 
 <dependency>
     <groupId>com.umeng</groupId>
     <artifactId>SocialSDK_QQZone_3</artifactId>
     <version>4.2.3</version>
-    <type>jar</version>
+    <type>jar</type>
 </dependency>
 
 <dependency>
     <groupId>com.umeng</groupId>
     <artifactId>SocialSDK_renren_1</artifactId>
     <version>4.2.3</version>
-    <type>jar</version>
+    <type>jar</type>
 </dependency>
 
 <dependency>
     <groupId>com.umeng</groupId>
     <artifactId>SocialSDK_renren_2</artifactId>
     <version>4.2.3</version>
-    <type>jar</version>
+    <type>jar</type>
 </dependency>
 
 <dependency>
     <groupId>com.umeng</groupId>
     <artifactId>SocialSDK_Sina</artifactId>
     <version>4.2.3</version>
-    <type>jar</version>
+    <type>jar</type>
 </dependency>
 
 <dependency>
     <groupId>com.umeng</groupId>
     <artifactId>SocialSDK_sms</artifactId>
     <version>4.2.3</version>
-    <type>jar</version>
+    <type>jar</type>
 </dependency>
 
 <dependency>
     <groupId>com.umeng</groupId>
     <artifactId>SocialSDK_tencentWB_1</artifactId>
     <version>4.2.3</version>
-    <type>jar</version>
+    <type>jar</type>
 </dependency>
 
 <dependency>
     <groupId>com.umeng</groupId>
     <artifactId>SocialSDK_tencentWB_2</artifactId>
     <version>4.2.3</version>
-    <type>jar</version>
+    <type>jar</type>
 </dependency>
 
 <dependency>
     <groupId>com.umeng</groupId>
     <artifactId>SocialSDK_tencentWB_3</artifactId>
     <version>4.2.3</version>
-    <type>jar</version>
+    <type>jar</type>
 </dependency>
 
 <dependency>
     <groupId>com.umeng</groupId>
     <artifactId>SocialSDK_tumblr</artifactId>
     <version>4.2.3</version>
-    <type>jar</version>
+    <type>jar</type>
 </dependency>
 
 <dependency>
     <groupId>com.umeng</groupId>
     <artifactId>SocialSDK_WeiXin_1</artifactId>
     <version>4.2.3</version>
-    <type>jar</version>
+    <type>jar</type>
 </dependency>
 
 <dependency>
     <groupId>com.umeng</groupId>
     <artifactId>SocialSDK_WeiXin_2</artifactId>
     <version>4.2.3</version>
-    <type>jar</version>
+    <type>jar</type>
 </dependency>
 
 <dependency>
     <groupId>com.umeng</groupId>
     <artifactId>SocialSDK_whatsapp</artifactId>
     <version>4.2.3</version>
-    <type>jar</version>
+    <type>jar</type>
 </dependency>
 
 <dependency>
     <groupId>com.umeng</groupId>
     <artifactId>SocialSDK_yixin_1</artifactId>
     <version>4.2.3</version>
-    <type>jar</version>
+    <type>jar</type>
 </dependency>
 
 <dependency>
     <groupId>com.umeng</groupId>
     <artifactId>SocialSDK_yixin_2</artifactId>
     <version>4.2.3</version>
-    <type>jar</version>
+    <type>jar</type>
 </dependency>
 
 <dependency>
     <groupId>com.umeng</groupId>
     <artifactId>SocialSDK_ynote</artifactId>
     <version>4.2.3</version>
-    <type>jar</version>
+    <type>jar</type>
 </dependency>
 
 ```
