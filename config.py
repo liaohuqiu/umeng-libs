@@ -37,4 +37,3 @@ for jar in jars:
     info['artifact_id'] = artifact_id
     info['file_name'] = jar
     lib_list.append(info)
-

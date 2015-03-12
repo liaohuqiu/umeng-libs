@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.umeng</groupId>
+  <artifactId>SocialSDK_flickr</artifactId>
+  <versioning>
+    <release>4.2.3</release>
+    <versions>
+      <version>4.2.3</version>
+    </versions>
+    <lastUpdated>20150312164608</lastUpdated>
+  </versioning>
+</metadata>

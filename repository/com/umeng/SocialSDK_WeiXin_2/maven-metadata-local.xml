@@ -3,10 +3,11 @@
   <groupId>com.umeng</groupId>
   <artifactId>SocialSDK_WeiXin_2</artifactId>
   <versioning>
-    <release>1.0.1</release>
+    <release>4.2.3</release>
     <versions>
       <version>1.0.1</version>
+      <version>4.2.3</version>
     </versions>
-    <lastUpdated>20150219052652</lastUpdated>
+    <lastUpdated>20150312164646</lastUpdated>
   </versioning>
 </metadata>
