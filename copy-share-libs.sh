@@ -5,4 +5,4 @@ fi
 
 rm -rf tmp
 mkdir tmp
-find  $1 -name "*libs" -print | xargs -I {} cp -rf {} tmp
+find  $1 -name "*libs/SocialSDK" -print | xargs -I {} cp -rf {} tmp
